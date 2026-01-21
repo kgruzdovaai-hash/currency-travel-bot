@@ -1,0 +1,4 @@
+requests==2.31.0
+python-dotenv==1.2.1
+pyTelegramBotAPI==4.14.0
+matplotlib==3.8.2
